@@ -3,12 +3,12 @@
 [Video](https://www.youtube.com/watch?v=YYXdXT2l-Gg)
 
 ## Python version
-python --version
-python3 --version
+    python --version
+    python3 --version
 
 ## Edit bash profile
-nano ~/.bash_profile
+    nano ~/.bash_profile
 
 ## For MacOS Big Sur
-nano ~/.zprofile
-alias python=python3
+    nano ~/.zprofile
+    alias python=python3
