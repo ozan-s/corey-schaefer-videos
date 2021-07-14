@@ -32,7 +32,7 @@
     df.loc[0]
     
 ## Access values on specific rows and column using labels
-    df.iloc[[0, 1], ['email', 'last']]
+    df.loc[[0, 1], ['email', 'last']]
     
 ## Get the value count of a Series
     df.['Hobbyist'].value_counts()
